@@ -16,7 +16,7 @@ from datetime import datetime
 # configure redis database
 # connect to Redis client
 
-hostname = "rredis-19166.c281.us-east-1-2.ec2.redns.redis-cloud.com"
+hostname = "redis-19166.c281.us-east-1-2.ec2.redns.redis-cloud.com"
 portnumber = 19166
 password = "whVztD0RJeLPQJM5pz50A7wcys8c1tIA"
 
